@@ -1413,10 +1413,15 @@ p4 {
   width: 190px;
   margin-top: 14px;
 }
+
+.reg{
+  max-width: 193px;
+}  
   
 input[type=text]{
   padding: 16px 2px 16px 16px;
-  min-width: 130px;
+  min-width: 10px;
+  max-width: 193px;
 }
 
 .button5{
